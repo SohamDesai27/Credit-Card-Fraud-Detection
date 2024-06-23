@@ -1,7 +1,7 @@
 # Credit-Card-Fraud-Detection
 
 
-It looks like you have a comprehensive start to your credit card fraud detection project. Here's a continuation of the steps to complete the project, including splitting the data into training and testing sets, training a logistic regression model, and evaluating its performance.
+Steps to complete the project, including splitting the data into training and testing sets, training a logistic regression model, and evaluating its performance.
 
 ### Importing the Dependencies
 
